@@ -4,7 +4,7 @@
 
 Multispark je moderné kreatívne štúdio poskytujúce špičkové digitálne riešenia pre podniky všetkých veľkostí. Spájame **kreativitu** a **technológie**, aby sme pre vašich zákazníkov vytvorili výnimočné zážitky.
 
-🌐 **Web**: [https://www.multispark.sk](https://www.multispark.sk)  
+🌐 **Web**: [https://github.com/Multispark6/Multispark](https://github.com/Multispark6/Multispark)  
 📧 **E-mail**: multispark6@gmail.com  
 📞 **Telefón**: +421 123 456 789  
 
@@ -62,4 +62,5 @@ Tento projekt a obsah webu sú chránené autorským právom. Použitie materiá
 ## 🛠 Autor webu
 
 Stránku vytvoril: [Samuel Hula](https://www.linkedin.com/in/samuel-hula/)
+
 
